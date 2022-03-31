@@ -72,7 +72,7 @@ class OwnClient(Client):
         :param endtime: End of time span.
         :type sds_type: None
         :param sds_type: None
-            It only is here to allow us get the SDS Client functionalities
+            It is only  here to allow us get the SDS Client functionalities
         :rtype: list[str]
         """
         sds_type = sds_type or self.sds_type

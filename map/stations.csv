@@ -1,0 +1,4 @@
+station,latitude,longitude,depth,color
+NOR,5.56,-74.869,0,green
+OCA,8.238,-73.319,0,red
+CRU,1.567,-76.951,0,black
